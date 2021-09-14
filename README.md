@@ -1,5 +1,5 @@
 # hello-world
 
-Hallo
+Hi
 
-Naam is Max
+My name is Max
